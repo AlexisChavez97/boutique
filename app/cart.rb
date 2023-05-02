@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "receipt"
-
 class Cart
   attr_reader :items
 
