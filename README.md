@@ -15,7 +15,7 @@
 
 `item = Item.new(name: "book", price: 12.49, category: :book)`
 
-### Create a cart
+#### Create a cart
 
 `cart = Cart.new`
 
